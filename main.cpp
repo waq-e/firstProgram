@@ -1,5 +1,3 @@
-#include <iostream>
-
 /**
  * Goals:
  * 		Write code with correct syntax
@@ -20,6 +18,4 @@
 
 
 int main() {
-	std::cout << "Hello, World!" << std::endl;
-	return 0;
 }
